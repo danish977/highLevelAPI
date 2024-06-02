@@ -8,8 +8,8 @@ const port = 3000;
 let access_token: string = '';
 
 // API Credentials
-const client_id = '65c0a9a4277b2961322c545a-ls8q934d';
-const client_secret = '94af4663-c0c7-4340-9ce5-39b38e88c146';
+const client_id = '';
+const client_secret = '';
 // const redirect_uri = 'https://google.com';
 // const customFieldName = 'DFS Booking Zoom Link';
 
